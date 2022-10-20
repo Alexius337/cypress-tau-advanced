@@ -1,6 +1,44 @@
 {
-  "boards": [],
-  "tasks": [],
+  "boards": [
+    {
+      "name": "MyBoard",
+      "user": 0,
+      "id": 15686777423,
+      "starred": false,
+      "created": "2022-10-19"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 15686777423,
+      "description": "",
+      "completed": false,
+      "listId": 85057557929,
+      "title": "milk",
+      "id": 38832761402,
+      "created": "2022-10-19",
+      "deadline": "2022-10-22",
+      "order": 1
+    },
+    {
+      "boardId": 15686777423,
+      "description": "",
+      "completed": false,
+      "listId": 85057557929,
+      "title": "bread",
+      "id": 86462953975,
+      "created": "2022-10-19",
+      "deadline": "2022-10-22",
+      "order": 0
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 15686777423,
+      "title": "groceries",
+      "id": 85057557929,
+      "created": "2022-10-19"
+    }
+  ]
 }
